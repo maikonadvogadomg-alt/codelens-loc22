@@ -1,0 +1,18 @@
+{
+  "titulo": "CodeLens-local",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "index.html",
+      "nome": "CodeLens",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg",
+      "emoji": "💻"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
